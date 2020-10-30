@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kewlvary8/code.git"
+  },
+  "author": "varun bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kewlvary8/code/issues"
+  },
+  "homepage": "https://github.com/kewlvary8/code#readme"
+}
